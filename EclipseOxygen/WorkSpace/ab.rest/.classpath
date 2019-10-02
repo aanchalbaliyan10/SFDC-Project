@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Testing/jars/jars/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Testing/jars/jars/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Testing/jars/jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Testing/jars/jars/java-client-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Testing/jars/jars/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Testing/jars/jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Testing/jars/jars/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Testing/jars/jars/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Testing/jars/jars/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Testing/jars/jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Testing/jars/jars/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
